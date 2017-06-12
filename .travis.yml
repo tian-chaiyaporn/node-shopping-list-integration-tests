@@ -7,4 +7,4 @@ deploy:
   app: https://agile-plains-71214.herokuapp.com/
   on:
     repo: tian-chaiyaporn/node-shopping-list-integration-tests
-    branch: tests-for-recipes
+    branch: master
